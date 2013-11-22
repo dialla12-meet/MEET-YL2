@@ -7,7 +7,6 @@ from django.shortcuts import render
 def movie_list(request):
     list_of_all_movies = Movie.objects.all()
     context = {'movies_list': list_of_all_movies}
-	
     # when you render, always pass a context as a dictionary
     # the way it is written here, movies_list.html can now
     # use a variable called "movies_list"
@@ -21,8 +20,6 @@ def add_movie(request):
     return HttpResponseRedirect('/movies')
 
 def movie(request, movie_id):
-	movies_with_id_movie_id = Movies.objects.filter(pk=movie_id)
-	context = {'movies_id' : movies_with_id_movie_id}
     return HttpResponse("this is where you see movie number " + movie_id + " and all it's comments")
 
 def add_comment(request, movie_id):
