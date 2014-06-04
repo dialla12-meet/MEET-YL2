@@ -1,0 +1,5 @@
+Great job with the app! I’m so glad that you were able to take something that was difficult and change it so you could finish it. You should be proud that you were able to take something that was hard for you and finish it nicely and cleanly. Your interface is very easy to use, and that is amazing. It is something we will talk about soon, but the interface being easy to use is a big factor in whether people actually use whatever you create. I also think it was a good experience for you to have to start the process over and over again when things were not working. 
+
+One suggestion I would make is instead of having an “exit” button (or maybe in addition to having an exit button), have a “stop” button that stops the timer. This is something I might want to do as a user of a timer, but that your app doesn’t have. 
+
+Great work - I hope you had fun. 
